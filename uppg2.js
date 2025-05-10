@@ -1,5 +1,6 @@
 
 function uppg2() {
+   
    let name = "Ester"
    console.log(name)
 }
