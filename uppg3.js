@@ -1,5 +1,4 @@
 
-
 function uppg3() {
 
     let a = 5
